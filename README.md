@@ -3,13 +3,13 @@
 
 ## 🎤Sobre esse projeto:
 
-O projeto Cronômetro apresenta um contador de tempo que inclui  segundos,minutos e horas.
+O projeto cronômetro e simples e bem prático! Ele apresenta um contador de tempo que inclui segundos,minutos e horas.
 
 ## 📖  Funcionalidades.
 Para da inicio as suas fucionalidades, aperte o botão *START* e, caso necessário, o *STOP* para parar a contagem ou o  botão *RESET* para zera o cronômetro.
 
 ## 😎 Agradecimentos!
-Agradeço ao mestre <a href="https://www.github.com/rodolfomori">Rodolfo Mori</a> por proporcionar esse desafio de criar um cronômetro, apenas com o aprendizado das aulas e com a minha imaginação em realçao as estilizações.
+Agradeço ao mestre <a href="https://www.github.com/rodolfomori">Rodolfo Mori</a> por proporcionar esse desafio de criar um cronômetro, apenas com o aprendizado das aulas e com a minha imaginação em realção as estilizações.
 
 ## 🖥 Foram utilizadas as seguintes tecnologias:
 <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" alt=html-logo width="80px" />
