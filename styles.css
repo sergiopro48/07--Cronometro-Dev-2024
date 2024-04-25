@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+ 
+
+body {
+    background-color: rgba(0,191,255);
+    
+}
+
+h3 {
+    padding: 100px;
+    font-size: 100px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+
+
+h1 {
+    height: 10px;
+    font-size: 180px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+section {
+    height: 250px;
+}
+
+
+.start {
+    color: rgb(0,128,0);
+}
+
+.stop {
+    color: rgb(255,0,0);
+}
+
+.reset {
+    color: rgb(255,255,255);
+}
+
+
+
+button {
+    font-size: 25px;
+    padding: 40px;
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+    background-color: black;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    opacity: 0.8;
+}
+
+container {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+
+            @media screen and (max-width:950px) {
+                h3 {
+                    margin-top: 10px;
+                    font-size: 50px;
+                    color: black;
+                    display: flex;
+                    justify-content: center;
+                    margin-bottom: 55px;
+                }
+
+                h1 {
+                    font-size: 75px;
+                    color: red;
+                    display: flex;
+                    justify-content: center;
+                    margin-top: 55px;
+                    margin-bottom: 55px;
+                }
+
+                button {
+                    font-size: 17px;
+                    padding: 17px;
+                    border-radius: 100px;
+                    border: none;
+                    cursor: pointer;
+                    background-color: black;
+                }
+    
+                container {
+                    display: flex;
+                    justify-content: center;
+                    gap: 20px;
+                }
+                button:hover {
+                    opacity: 0.9;
+                }
+                
+                button:active {
+                    opacity: 0.8;
+                }
+            }
