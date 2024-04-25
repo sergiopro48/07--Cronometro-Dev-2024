@@ -109,7 +109,7 @@ container {
                     gap: 20px;
                 }
                 button:hover {
-                    opacity: 0.9;
+                    opacity: 0.8;
                 }
                 
                 button:active {
